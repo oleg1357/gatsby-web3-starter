@@ -25,7 +25,7 @@ export default function Home() {
   return (
     <Layout>
       <div className="py-52 text-white text-center font-mono">
-        <h1 className="mb-4 font-bold text-3xl">Hello Web3!</h1>
+        <h1 className="mb-4 font-bold text-3xl">Hello its St4ke!</h1>
         <p>
           This starter sets you up with Gatsby 4, TailwindCSS, Preact, and
           web3.js. All of this together will let you build beautiful,
